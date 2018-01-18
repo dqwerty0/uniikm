@@ -1,0 +1,211 @@
+04/12/2017 10:53:19 Checking for existence of Branding Active Setup stub...
+04/12/2017 10:53:19 InternetExplorerBrandGUID didn't exist: Branding component not installed
+04/12/2017 10:53:19 Inf Version is set to "8,00,7600,16385".
+04/12/2017 10:53:19 HKCU Active Setup Key not found.
+
+04/12/2017 10:53:19    COM initialized with S_OK success code.
+
+04/12/2017 10:53:19 Branding Internet Explorer...
+04/12/2017 10:53:19 Command line is "/mode:isp /peruser".
+
+04/12/2017 10:53:19 Global branding settings are:
+04/12/2017 10:53:19    Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+04/12/2017 10:53:19    Settings file is        "C:\Program Files\Internet Explorer\Signup\install.ins";
+04/12/2017 10:53:19    Target folder path is   "C:\Program Files\Internet Explorer\Signup".
+04/12/2017 10:53:19 Done.
+
+04/12/2017 10:53:19    About to clear previous branding...
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing migration of old settings...
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing wininet setup...
+04/12/2017 10:53:19    There are no connection settings to process!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing deletion of connection settings...
+04/12/2017 10:53:19    Existing connection settings weren't specified to be deleted!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing zones HKCU settings...
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing local machine policies and restrictions...
+04/12/2017 10:53:19    There are no local machine *.inf files to process!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing current user policies and restrictions...
+04/12/2017 10:53:19    There are no current user *.inf files to process!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing legacy policies and restrictions...
+04/12/2017 10:53:19        There are no local machine *.inf files to process!
+04/12/2017 10:53:19        There are no current user *.inf files to process!
+04/12/2017 10:53:19    There are no legacy *.inf files to process!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing general customizations...
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing Help->About customization...
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing browser toolbar buttons...
+04/12/2017 10:53:19    There are no toolbar buttons to process!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing root certificates...
+04/12/2017 10:53:19    This feature is for ISPs only!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing default favorites and/or quick links...
+04/12/2017 10:53:19    Creating separate thread for processing default favorites...
+
+04/12/2017 10:53:19    COM initialized with S_OK success code.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19            <Favorites> folder location is "C:\Users\Настроеный юзер\Favorites".
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Веб-сайты Майкрософт\Домашняя страница IE",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=72186",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Веб-сайты Майкрософт\Узел надстроек для Internet Explorer",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=50893",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Веб-сайты MSN\MSN",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=54729",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Веб-сайты MSN\MSN Спорт",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=68921",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Веб-сайты MSN\Новости MSNBC",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=68922",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Веб-сайты MSN\MSN Знаменитости",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=68924",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Windows Live\Windows Live Mail",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=72681",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Windows Live\Windows Live Spaces",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=72682",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Windows Live\Windows Live Gallery",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkID=70742",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Windows Live\Подключение к Windows Live",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?LinkId=72700",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19        Determining favorites attributes...
+04/12/2017 10:53:19        marked as Low Integrity,
+04/12/2017 10:53:19        Title     - "Веб-сайты Майкрософт\Microsoft Store",
+04/12/2017 10:53:19        URL       - "http://go.microsoft.com/fwlink/?linkid=140813",
+04/12/2017 10:53:19        with a default icon,
+04/12/2017 10:53:19        not marked IEAK created,
+04/12/2017 10:53:19        Done.
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing deletion of favorites and/or quick links...
+04/12/2017 10:53:19    None of the favorites folders were specified to be deleted!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing favorites...
+04/12/2017 10:53:19    There are no favorites to add!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing ordering of favorites...
+04/12/2017 10:53:19    Favorites will be put into the default position!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing quick links...
+04/12/2017 10:53:19    There are no quick links to add!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing ordering of quick links...
+04/12/2017 10:53:19    Quick Links will be put into the default position!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing connection settings...
+04/12/2017 10:53:19    There are no connection settings to process!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Processing TrustedPublisherLockdown restriction...
+04/12/2017 10:53:19    This restriction is not set!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Creating feeds...
+04/12/2017 10:53:19 Processing [Feeds] section...
+
+04/12/2017 10:53:19 Processing [FavoritesBar] section for Feeds...
+
+04/12/2017 10:53:19 Processing [FavoritesBar] section for WebSlices...
+
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Creating start pages...
+04/12/2017 10:53:19    There are no start pages to add!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Creating search providers...
+04/12/2017 10:53:19    There are no search providers to add!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Installing Activities...
+04/12/2017 10:53:19    There are no Actitivies to Install!
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Installing Unattend Favorite bar items...
+04/12/2017 10:53:19 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+04/12/2017 10:53:19 ProcessUnattendFavBarItems processing favbaritems from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\FavoriteBarItems
+04/12/2017 10:53:19 No subkeys found.
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Installing Unattend Activites...
+04/12/2017 10:53:19 Cannot Open Registry Key HKCU\SOFTWARE\Microsoft\Internet Explorer\AppliedUnattend [error=2]. It probably doesn't exist. Not an error.
+04/12/2017 10:53:19 ProcessUnattendActivities processing activities from location: SOFTWARE\Microsoft\Internet Explorer\UnattendBackup\ActiveSetup\Accelerators
+04/12/2017 10:53:19 No subkeys found.
+04/12/2017 10:53:19    Done.
+
+04/12/2017 10:53:19    Refreshing browser settings...
+04/12/2017 10:53:19    Broadcasting "Windows settings change" to all top level windows...
+04/12/2017 10:53:19    Done.
+04/12/2017 10:53:19 Done.
+04/12/2017 10:53:19 Done.

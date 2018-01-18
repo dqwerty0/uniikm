@@ -1,0 +1,8 @@
+
+[*WMC Logging begun at 2017/04/12 - 10:53:14.  Logging at level: '4'.  OS is NT.  OSVer is 6.1.7600.0.16385. System Lang is 1049. Prev version system is 12.0.7600.16385. Setup version 12.0.7600.16385.]
+Checking for Playlist Obfuscation.
+Playlist location not obfuscated. Doing Obfuscation now.
+Obfuscation for Playlist location succeeded.
+  Created media library for player.
+ERROR: Create CommonStartMenu shortcut failed: '0x80070005'.
+Current command line: '/FirstLogon /Shortcuts /RegBrowsers /ResetMUI'.

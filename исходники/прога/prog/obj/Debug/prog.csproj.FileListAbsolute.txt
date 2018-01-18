@@ -1,0 +1,134 @@
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\bin\Debug\prog.exe.config
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\bin\Debug\prog.exe
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\bin\Debug\prog.pdb
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\obj\Debug\prog.MainForm.resources
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\obj\Debug\prog.csproj.GenerateResource.Cache
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\obj\Debug\prog.exe
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\obj\Debug\prog.pdb
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\obj\Debug\prog.Form1.resources
+C:\Users\Computer\Documents\SharpDevelop Projects\prog\prog\obj\Debug\prog.Form2.resources
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.exe
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.pdb
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\bin\Debug\prog.exe.config
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\bin\Debug\prog.exe
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\bin\Debug\prog.pdb
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.csproj.ResolveComReference.cache
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.Form1.resources
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.MainForm.resources
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.Form2.resources
+C:\Users\Zalaev_ds\Desktop\практика\prog\prog\obj\Debug\prog.csproj.GenerateResource.Cache
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.csproj.ResolveComReference.cache
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.MainForm.resources
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.Form2.resources
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.csproj.GenerateResource.Cache
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.Form3.resources
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.Form4.resources
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.Form1.resources
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\bin\Debug\Программа для первичной настройки УК.exe.config
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\bin\Debug\Программа для первичной настройки УК.exe
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\bin\Debug\Программа для первичной настройки УК.pdb
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\Программа для первичной настройки УК.exe
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\Программа для первичной настройки УК.pdb
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.Form5.resources
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.Form6.resources
+C:\Users\Zalaev_ds\Desktop\1221\практика\prog\prog\obj\Debug\prog.Form7.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.csproj.ResolveComReference.cache
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.Form1.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.Form2.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.Form3.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.Form4.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.Form5.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.Form6.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.Form7.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.MainForm.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\prog.csproj.GenerateResource.Cache
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\Программа для первичной настройки УК.exe
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\bin\Debug\Программа для первичной настройки УК.exe.config
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\bin\Debug\Программа для первичной настройки УК.exe
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\bin\Debug\Программа для первичной настройки УК.pdb
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\1221\пр\программа\исходники\prog\obj\Debug\Программа для первичной настройки УК.pdb
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.csproj.ResolveComReference.cache
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.Form1.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.Form2.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.Form3.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.Form4.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.Form5.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.Form6.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.Form7.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.MainForm.resources
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\prog.csproj.GenerateResource.Cache
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\bin\Debug\ППН УК.exe.config
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\bin\Debug\ППН УК.exe
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\bin\Debug\ППН УК.pdb
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\ППН УК.exe
+C:\Users\Zalaev_ds\Desktop\1221\пр\исходники\прога\prog\obj\Debug\ППН УК.pdb
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\ППН УК.exe
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\ППН УК.pdb
+G:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+G:\Залаев Д.С\исходники\прога\prog\obj\Debug\ППН УК.exe
+G:\Залаев Д.С\исходники\прога\prog\obj\Debug\ППН УК.pdb
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.csproj.ResolveComReference.cache
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form1.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form2.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form3.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form4.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form5.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form6.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form7.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.MainForm.resources
+D:\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.csproj.GenerateResource.Cache
+D:\Залаев Д.С\исходники\прога\prog\bin\Debug\ППН УК.exe.config
+D:\Залаев Д.С\исходники\прога\prog\bin\Debug\ППН УК.exe
+D:\Залаев Д.С\исходники\прога\prog\bin\Debug\ППН УК.pdb
+D:\Залаев Д.С\исходники\прога\prog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\bin\Debug\ППН УК.exe.config
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\bin\Debug\ППН УК.exe
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\bin\Debug\ППН УК.pdb
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.csproj.ResolveComReference.cache
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form1.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form2.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form3.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form4.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form5.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form6.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.Form7.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.MainForm.resources
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\prog.csproj.GenerateResource.Cache
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\ППН УК.exe
+C:\Users\юзер\Desktop\Залаев Д.С\исходники\прога\prog\obj\Debug\ППН УК.pdb
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.csprojResolveAssemblyReference.cache
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\ППН УК.exe
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\ППН УК.pdb
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\bin\Debug\ППН УК.exe.config
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\bin\Debug\ППН УК.exe
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\bin\Debug\ППН УК.pdb
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.csproj.ResolveComReference.cache
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.Form1.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.Form2.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.Form3.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.Form4.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.Form5.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.Form6.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.Form7.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.MainForm.resources
+C:\Users\danil1111\Desktop\Vboxsvrзалаев_д.с\исходники\прога\prog\obj\Debug\prog.csproj.GenerateResource.Cache
